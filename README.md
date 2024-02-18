@@ -17,11 +17,11 @@
 
 **Other:** `Git` `GitLab` `Postman` `Docker`
 
-## Interests
+## Interests 🤓
 
 - Fitness, Video Games, Anime, and Travel
 
-## Contact 
+## Contact ✉️
 
 - [LinkedIn](https://linkedin.com/in/harrison-chapman-aa4b18265)
 - [Email](hchapma5@gmail.com)
