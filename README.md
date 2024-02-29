@@ -1,6 +1,6 @@
 ### Hi, I'm Harrison 👋🏻
 
-- I'm an aspiring software developer from Australia
+- Aspiring software developer from Australia
 - Computer science student
 
 ## Toolbelt ⚙️
@@ -11,13 +11,11 @@
 
 **Databases:** `MongoDB` `PostgreSQL`
 
-**Data visualisation:** `RapidMiner` `Tableau`
-
 **Design:** `Figma` `Miro`
 
 **Other:** `Git` `GitLab` `Postman` `Docker`
 
-## Interests 🤓
+## Interests 
 
 - Fitness, Video Games, Anime, and Travel
 
