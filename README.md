@@ -7,17 +7,13 @@
 
 **Languages:** `Java` `JavaScript` `TypeScript` `Python` `Scala` `C` `C++`
 
-**Frameworks:** `React` `express.js` `pygame`
+**Frameworks:** `React` `express.js`
 
 **Databases:** `MongoDB` `PostgreSQL`
 
 **Design:** `Figma` `Miro`
 
 **Other:** `Git` `GitLab` `Postman` `Docker`
-
-## Interests 
-
-- Fitness, Video Games, Anime, and Travel
 
 ## Contact ✉️
 
